@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+  border: 3px solid green;
+  margin: 13px;
+  padding: 20px;
+
+}
+
+.person1 {
+  font-family: sans-serif;
+  font-weight: lighter;
+  color: #af3f82;
+}
+
+.person2 {
+  color: green;
+  font-family: monospace;
+  font-weight: normal;
+}
